@@ -1,6 +1,6 @@
 ### Olá, me chamo Talison 👋
 
-- 🌱 Atualmente estou estudando React + Typescript ...
+- 🌱 Atualmente estou estudando ReactNative ...
 
 <div align="center">
   <a href="https://github.com/Soncosta-sys">
